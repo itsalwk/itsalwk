@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Aspiring 🌟 Software Architect | 🎨 Sketch Artist | 🎶 Music Producer
 
-Welcome to my corner of GitHub! I’m on a journey to become a **Software Architect** — one line of code at a time. When I'm not coding, you’ll find me **reading** 📚, **playing the keyboard** 🎹, or **sketching** 🎨.
+Welcome to my corner of GitHub! I’m on a journey to become a **Software Architect** 🌟 — one line of code at a time. When I'm not coding, you’ll find me **reading** 📚, **accompanied singing** 🎹, or **sketching** 🎨.
 
 ### 🚀 What I Do:
 - **Software Architecture**: Designing scalable, elegant systems with creativity at the core.
@@ -17,4 +17,4 @@ Welcome to my corner of GitHub! I’m on a journey to become a **Software Archit
 _"Work hard, pretend to care, and maybe make something cool — or just break everything and blame it on ‘creative chaos.’ Whatever works."_
 
 ### 📫 How to Reach Me:
-Feel free to reach out if you want to discuss **software design**, **cutting-edge tech**, or just need a **synthwave riff** to brighten your day.
+Feel free to reach out if you want to discuss **software design**, **cutting-edge tech**.
