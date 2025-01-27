@@ -4,16 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello, I'm Alwin Kunjumon! 👋
 
-## Certified Ethical Hacker | Vlogger
+## Aspiring Software Developer | Vlogger
 
-Welcome to my GitHub profile. I am on a dedicated journey as a **Certified Ethical Hacker (CEH)**, committed to enhancing security and protecting systems from vulnerabilities. When I’m not immersed in code, I enjoy **making monthly vlogs** about my life.
+Welcome to my GitHub profile! I am an **Aspiring Software Developer** with a passion for creating secure and efficient software solutions. My journey in technology is driven by a commitment to enhancing security and protecting systems from vulnerabilities. When I’m not immersed in code, I enjoy **making monthly vlogs** about my life and experiences.
 
 ---
 
 ### 🚀 Areas of Expertise:
-- **Ethical Hacking & Cybersecurity**: Utilizing my CEH certification to identify and mitigate security risks, ensuring the integrity of systems.
-- **Web & Software Development**: Developing clean, efficient code across the full stack, ensuring seamless user experiences.
-- **Continuous Learning & Collaboration**: Committed to personal growth and knowledge sharing within the tech community.
+- **Cybersecurity**: Actively learning to identify and mitigate security risks, ensuring the integrity and confidentiality of systems.
+- **Web & Software Development**: Proficient in developing clean, efficient code across the full stack, focused on delivering seamless user experiences.
+- **Continuous Learning & Collaboration**: Dedicated to personal growth and knowledge sharing within the tech community, always eager to learn from others.
 
 ---
 
@@ -22,7 +22,11 @@ _"Strive for excellence, embrace challenges, and create impactful solutions. In 
 
 ---
 
-### 📫 Connect with Me:
-I welcome discussions on **cybersecurity**, **emerging technologies**, or any collaborative opportunities. Feel free to reach out!
+### 📫 Let's Connect!
+I welcome discussions on **cybersecurity**, **emerging technologies**, or any collaborative opportunities. If you're looking for a passionate developer to help bring your ideas to life, feel free to reach out!
+
+- **Instagram**: [@imalwinkunjumon](https://www.instagram.com/imalwinkunjumon)
 
 ---
+
+Thank you for visiting my profile! I look forward to connecting with you.
