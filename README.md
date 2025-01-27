@@ -25,7 +25,7 @@ _"Strive for excellence, embrace challenges, and create impactful solutions. In 
 ### 📫 Let's Connect!
 I welcome discussions on **cybersecurity**, **emerging technologies**, or any collaborative opportunities. If you're looking for a passionate developer to help bring your ideas to life, feel free to reach out!
 
-- **Instagram**: [@imalwinkunjumon](https://www.instagram.com/imalwinkunjumon)
+- **linktree**: [linktr.ee/imalwinkunjumon](https://linktr.ee/imalwinkunjumon)
 
 ---
 
