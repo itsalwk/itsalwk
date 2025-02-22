@@ -1,8 +1,8 @@
 # Hello! I'm Alwin Kunjumon! 👋
 
-## Aspiring AI Engineer & Full-Stack Developer
+## Full-Stack Developer
 
-Welcome to my GitHub profile! I am an **Aspiring AI Engineer & Full-Stack Developer** with a strong focus on building scalable, efficient, and innovative software solutions. I'm passionate about learning new technologies and creating impactful projects. 
+Welcome to my GitHub profile! I am an A **Full-Stack Developer** with a strong focus on building scalable, efficient, and innovative software solutions. I'm passionate about learning new technologies and creating impactful projects. 
 
 ---
 
