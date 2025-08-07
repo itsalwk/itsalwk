@@ -16,7 +16,7 @@ I'm an independent creator who merges ethical hacking and AI development with a 
 </p>
 
 ---
-<br/>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;"
@@ -54,6 +54,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" />
 <br/>
+
 
 #
 
