@@ -1,6 +1,6 @@
 # 😎 Alwin Kunjumon
 
-**`Builder (Ethical Hacker/Developer/Musician/Filmmaker/Creator)`**
+**`Builder (Developer/Musician/Filmmaker/Creator)`**
 
 I'm an independent creator who merges ethical hacking and AI development with a passion for music and filmmaking. All my projects—from secure code to original films—are built from the ground up and shared on my YouTube channel "[Alwin Kunjumon](http://www.youtube.com/@itsalwk) "
 
