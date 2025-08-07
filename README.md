@@ -16,7 +16,7 @@ I'm an independent creator who merges ethical hacking and AI development with a 
 </p>
 
 ---
-
+<br/>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;"
