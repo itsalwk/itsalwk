@@ -25,7 +25,6 @@ I'm a **Grad Student🎓 [@ MESCET, India Ⓜ️](https://www.mescet.ac.in/)** m
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 💬 Ask me about Python, C/C++, Java, JS, ML, DL
 - 📙 Check out my [Resume](https://www.linkedin.com/in/alwinkunjumon/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
 ### 🖥️ My DevSetup
