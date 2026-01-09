@@ -3,7 +3,7 @@
 </h1>
 
 ### 📬 Find me at
-[![YouTube Badge](http://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@itsalwk)](https://www.youtube.com/@itsalwk) 
+[![YouTube Badge](http://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@itsalwk)](https://www.youtube.com/@itsalwk) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alwinkunjumon/)](https://www.linkedin.com/in/alwinkunjumon)
 
 
