@@ -25,7 +25,7 @@ DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
 
 
 ## What I Know
-[![C](https://img.shields.io/badge/C-5A6C7A?style=flat-square&logoColor=white)]()
+[![C/C++](https://img.shields.io/badge/C/C++-5A6C7A?style=flat-square&logoColor=white)]()
 [![JAVA](https://img.shields.io/badge/JAVA-C65D00?style=flat-square&logoColor=white)]()
 [![PYTHON](https://img.shields.io/badge/PYTHON-2F5D8C?style=flat-square&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-C9B000?style=flat-square&logoColor=white)]()
