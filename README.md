@@ -25,61 +25,41 @@ DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
 
 
 ## What I Know
-<!-- CORE LANGUAGES -->
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square)]()
-[![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square)]()
-[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square)]()
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logoColor=000000)]()
-[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square)]()
-[![DART](https://img.shields.io/badge/DART-0175C2?style=flat-square)]()
+[![C](https://img.shields.io/badge/C-5A6C7A?style=flat-square&logoColor=white)]()
+[![JAVA](https://img.shields.io/badge/JAVA-C65D00?style=flat-square&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/PYTHON-2F5D8C?style=flat-square&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-C9B000?style=flat-square&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-255EA8?style=flat-square&logoColor=white)]()
+[![DART](https://img.shields.io/badge/DART-01579B?style=flat-square&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-B9381F?style=flat-square&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-115293?style=flat-square&logoColor=white)]()
+[![REACT](https://img.shields.io/badge/REACT-2D8FA3?style=flat-square&logoColor=white)]()
+[![NEXT.JS](https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logoColor=white)]()
+[![TAILWIND](https://img.shields.io/badge/TAILWIND-0284C7?style=flat-square&logoColor=white)]()
+[![FLUTTER](https://img.shields.io/badge/FLUTTER-013A63?style=flat-square&logoColor=white)]()
+[![REACT_NATIVE](https://img.shields.io/badge/REACT_NATIVE-2D8FA3?style=flat-square&logoColor=white)]()
+[![EXPO](https://img.shields.io/badge/EXPO-111133?style=flat-square&logoColor=white)]()
+[![ELECTRON](https://img.shields.io/badge/ELECTRON-2C5C63?style=flat-square&logoColor=white)]()
+[![FASTAPI](https://img.shields.io/badge/FASTAPI-00695C?style=flat-square&logoColor=white)]()
+[![FLASK](https://img.shields.io/badge/FLASK-111111?style=flat-square&logoColor=white)]()
+[![NODE.JS](https://img.shields.io/badge/NODE.JS-2E7D32?style=flat-square&logoColor=white)]()
+[![EXPRESS](https://img.shields.io/badge/EXPRESS-111111?style=flat-square&logoColor=white)]()
+[![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-1F4F82?style=flat-square&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/MYSQL-2C5F8A?style=flat-square&logoColor=white)]()
+[![MONGODB](https://img.shields.io/badge/MONGODB-2E7D32?style=flat-square&logoColor=white)]()
+[![REDIS](https://img.shields.io/badge/REDIS-A32020?style=flat-square&logoColor=white)]()
+[![NUMPY](https://img.shields.io/badge/NUMPY-0A2E36?style=flat-square&logoColor=white)]()
+[![PANDAS](https://img.shields.io/badge/PANDAS-0F0A2E?style=flat-square&logoColor=white)]()
+[![SCIKIT_LEARN](https://img.shields.io/badge/SCIKIT_LEARN-C76A00?style=flat-square&logoColor=white)]()
+[![PYTORCH](https://img.shields.io/badge/PYTORCH-B33A1E?style=flat-square&logoColor=white)]()
+[![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-C65300?style=flat-square&logoColor=white)]()
+[![JUPYTER_NOTEBOOK](https://img.shields.io/badge/JUPYTER_NOTEBOOK-C75A1B?style=flat-square&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/GIT-B3361D?style=flat-square&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/DOCKER-1565C0?style=flat-square&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logoColor=white)]()
+[![WINDOWS](https://img.shields.io/badge/WINDOWS-005A9E?style=flat-square&logoColor=white)]()
+[![LINUX](https://img.shields.io/badge/LINUX-A68C00?style=flat-square&logoColor=white)]()
 
-
-<!-- WEB FUNDAMENTALS -->
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)]()
-
-
-<!-- FRONTEND -->
-[![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logoColor=000000)]()
-[![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square)]()
-[![TAILWIND_CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square)]()
-
-
-<!-- CROSS PLATFORM -->
-[![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square)]()
-[![REACT_NATIVE](https://img.shields.io/badge/REACT_NATIVE-61DAFB?style=flat-square&logoColor=000000)]()
-[![EXPO](https://img.shields.io/badge/EXPO-000020?style=flat-square)]()
-[![ELECTRON](https://img.shields.io/badge/ELECTRON-47848F?style=flat-square)]()
-
-
-<!-- BACKEND -->
-[![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square)]()
-[![FLASK](https://img.shields.io/badge/FLASK-000000?style=flat-square)]()
-[![NODE.JS](https://img.shields.io/badge/NODE.JS-339933?style=flat-square)]()
-[![EXPRESS.JS](https://img.shields.io/badge/EXPRESS.JS-000000?style=flat-square)]()
-
-
-<!-- DATABASES -->
-[![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square)]()
-[![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square)]()
-[![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=flat-square)]()
-[![REDIS](https://img.shields.io/badge/REDIS-DC382D?style=flat-square)]()
-
-
-<!-- AI / ML -->
-[![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=flat-square)]()
-[![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=flat-square)]()
-[![SCIKIT--LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square)]()
-[![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square)]()
-[![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square)]()
-
-
-<!-- DEVOPS / INFRA -->
-[![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square)]()
-[![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)]()
-[![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square)]()
-[![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logoColor=000000)]()
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=itsalwk&theme=github-dark&hide_border=true" width="100%" />
