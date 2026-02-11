@@ -1,86 +1,91 @@
-<img width="28" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 <h1 align="center">
-Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> 👋
+Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 </h1>
 
-<p align="center">
-Entry-Level AI Engineer • ML Systems • Applied AI
-</p>
+<div align="center">
+
+[![Entry-Level AI Engineer](https://img.shields.io/badge/Entry--Level_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
+[![ML Systems](https://img.shields.io/badge/ML_Systems-222222?style=for-the-badge&labelColor=000000&color=111111)]()
+[![Applied AI](https://img.shields.io/badge/Applied_AI-333333?style=for-the-badge&labelColor=000000&color=111111)]()
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alwinkunjumon/)
+[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge)](https://x.com/itsalwk)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/@itsalwk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/itsalwk)
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://rxresu.me/itsalwk/curriculum-vitae)
+
+</div>
+
+OPEN TO WORKING WITH FOUNDERS, DEVELOPERS, AND STARTUPS ON HIGH-IMPACT AI AND FULL STACK PROJECTS.  
+DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
 
 
-## 📬 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwinkunjumon/)
-[![YouTube](https://img.shields.io/badge/YouTube-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itsalwk)
-[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/itsalwk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itsalwk)
+## What I Know
+<!-- CORE LANGUAGES -->
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square)]()
+[![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square)]()
+[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square)]()
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logoColor=000000)]()
+[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square)]()
+[![DART](https://img.shields.io/badge/DART-0175C2?style=flat-square)]()
 
----
 
-## 🧠 About Me
+<!-- WEB FUNDAMENTALS -->
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)]()
 
-I’m a **final-year Computer Science & Engineering student** focused on building **practical, production-style AI systems** — not just notebooks that look good.
 
-My interest lies in:
-- Turning ML models into **real applications**
-- Designing **clean data → model → API pipelines**
-- Building **AI MVPs** that actually ship
+<!-- FRONTEND -->
+[![REACT](https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logoColor=000000)]()
+[![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=flat-square)]()
+[![TAILWIND_CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat-square)]()
 
-I approach AI from an **engineering-first mindset**: reliability, clarity, and measurable outcomes.
 
----
+<!-- CROSS PLATFORM -->
+[![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square)]()
+[![REACT_NATIVE](https://img.shields.io/badge/REACT_NATIVE-61DAFB?style=flat-square&logoColor=000000)]()
+[![EXPO](https://img.shields.io/badge/EXPO-000020?style=flat-square)]()
+[![ELECTRON](https://img.shields.io/badge/ELECTRON-47848F?style=flat-square)]()
 
-## ⚡ What I Work On
 
-- 🤖 **Machine Learning**
-  - Supervised & unsupervised models
-  - Feature engineering & evaluation
-- 🧠 **Applied AI**
-  - NLP, classification, detection systems
-  - Model inference pipelines
-- 🧩 **Backend for AI**
-  - FastAPI / Flask model serving
-  - REST APIs for ML systems
-- 🗄 **Data & Storage**
-  - SQL / NoSQL
-  - Dataset structuring & validation
-- 🔐 **Security Awareness**
-  - Basic ML security & web app hardening
+<!-- BACKEND -->
+[![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square)]()
+[![FLASK](https://img.shields.io/badge/FLASK-000000?style=flat-square)]()
+[![NODE.JS](https://img.shields.io/badge/NODE.JS-339933?style=flat-square)]()
+[![EXPRESS.JS](https://img.shields.io/badge/EXPRESS.JS-000000?style=flat-square)]()
 
----
 
-## 🛠 Tech Stack (Core)
+<!-- DATABASES -->
+[![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-336791?style=flat-square)]()
+[![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square)]()
+[![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=flat-square)]()
+[![REDIS](https://img.shields.io/badge/REDIS-DC382D?style=flat-square)]()
 
-**Languages**
-- Python, JavaScript
 
-**ML / Data**
-- NumPy, Pandas, scikit-learn
+<!-- AI / ML -->
+[![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=flat-square)]()
+[![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=flat-square)]()
+[![SCIKIT--LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square)]()
+[![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square)]()
+[![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square)]()
 
-**Backend**
-- FastAPI, Flask, Node.js
 
-**Databases**
-- PostgreSQL, MongoDB
+<!-- DEVOPS / INFRA -->
+[![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square)]()
+[![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)]()
+[![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square)]()
+[![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logoColor=000000)]()
 
-**Infra Basics**
-- Git, Docker, Linux
+![GITHUB_STATS](https://github-readme-stats.vercel.app/api?username=itsalwk&show_icons=true&theme=github_dark&hide_border=true)
 
----
+![GITHUB_STREAK](https://streak-stats.demolab.com?user=itsalwk&theme=github-dark&hide_border=true)
 
-## 🚀 What I’m Looking For
+![TOP_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=itsalwk&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-- Entry-level **AI Engineer / ML Engineer** roles  
-- Internships or junior roles in **Applied AI**
-- Collaborations on **AI MVPs**, research-to-product projects
 
----
-
-## 📄 Resume
-🔗 [View Resume](https://www.linkedin.com/in/alwinkunjumon/)
-
----
-
-<p align="center">
-Building AI that works in the real world — not just demos.
-</p>
