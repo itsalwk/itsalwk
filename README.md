@@ -16,7 +16,6 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alwinkunjumon/)
 [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge)](https://x.com/itsalwk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/@itsalwk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/itsalwk)
 [![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge)](https://rxresu.me/itsalwk/curriculum-vitae)
 
 </div>
