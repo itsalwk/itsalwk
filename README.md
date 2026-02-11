@@ -8,7 +8,6 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> 👋
 Entry-Level AI Engineer • ML Systems • Applied AI
 </p>
 
----
 
 ## 📬 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwinkunjumon/)
