@@ -7,7 +7,7 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 [![Junior AI Engineer](https://img.shields.io/badge/Junior_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
 [![ML Systems](https://img.shields.io/badge/ML_Systems-222222?style=for-the-badge&labelColor=000000&color=111111)]()
-[![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-333333?style=for-the-badge&labelColor=000000&color=111111)]()
+[![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-333333?style=for-the-badge&labelColor=000000&color=111111)]()
 
 </div>
 
@@ -61,9 +61,8 @@ DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
 [![WINDOWS](https://img.shields.io/badge/WINDOWS-005A9E?style=flat-square&logoColor=white)]()
 [![LINUX](https://img.shields.io/badge/LINUX-A68C00?style=flat-square&logoColor=white)]()
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=itsalwk&theme=github-dark&hide_border=true" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalwk&theme=github_dark" width="100%" />
 </div>
 
 
