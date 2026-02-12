@@ -5,8 +5,7 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 <div align="center">
 
-[![Junior AI Engineer](https://img.shields.io/badge/Junior_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
-[![ML Systems](https://img.shields.io/badge/ML_Systems-222222?style=for-the-badge&labelColor=000000&color=111111)]()
+[![AI Engineer](https://img.shields.io/badge/Junior_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
 [![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-333333?style=for-the-badge&labelColor=000000&color=111111)]()
 
 </div>
@@ -20,47 +19,81 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 </div>
 
-OPEN TO WORKING WITH FOUNDERS, DEVELOPERS, AND STARTUPS ON HIGH-IMPACT AI AND FULL-STACK PROJECTS.  
-DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
+## About Me
 
+Computer Science undergraduate focused on building scalable backend systems and production-ready AI integrations. Strong foundation in Data Structures, Algorithms, system design fundamentals, and performance-oriented programming (C/C++).
 
-## What I Know
-[![C/C++](https://img.shields.io/badge/C/C++-5A6C7A?style=flat-square&logoColor=white)]()
-[![JAVA](https://img.shields.io/badge/JAVA-C65D00?style=flat-square&logoColor=white)]()
-[![PYTHON](https://img.shields.io/badge/PYTHON-2F5D8C?style=flat-square&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-C9B000?style=flat-square&logoColor=white)]()
-[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-255EA8?style=flat-square&logoColor=white)]()
-[![DART](https://img.shields.io/badge/DART-01579B?style=flat-square&logoColor=white)]()
+Currently building full-stack applications and ML-integrated systems using modern web and backend architectures.
+
+## Tech Stack
+
+<!-- ===================== LANGUAGES ===================== -->
+[![LANGUAGES](https://img.shields.io/badge/LANGUAGES-FFFFFF?style=flat-square&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-5A6C7A?style=flat-square&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-C65D00?style=flat-square&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-2F5D8C?style=flat-square&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-C9B000?style=flat-square&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-255EA8?style=flat-square&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-01579B?style=flat-square&logoColor=white)]()
+
+<!-- ===================== FRONTEND ===================== -->
+[![FRONTEND](https://img.shields.io/badge/FRONTEND-FFFFFF?style=flat-square&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-B9381F?style=flat-square&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-115293?style=flat-square&logoColor=white)]()
-[![REACT](https://img.shields.io/badge/REACT-2D8FA3?style=flat-square&logoColor=white)]()
-[![NEXT.JS](https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logoColor=white)]()
-[![TAILWIND](https://img.shields.io/badge/TAILWIND-0284C7?style=flat-square&logoColor=white)]()
-[![FLUTTER](https://img.shields.io/badge/FLUTTER-013A63?style=flat-square&logoColor=white)]()
-[![REACT_NATIVE](https://img.shields.io/badge/REACT_NATIVE-2D8FA3?style=flat-square&logoColor=white)]()
-[![EXPO](https://img.shields.io/badge/EXPO-111133?style=flat-square&logoColor=white)]()
-[![ELECTRON](https://img.shields.io/badge/ELECTRON-2C5C63?style=flat-square&logoColor=white)]()
-[![FASTAPI](https://img.shields.io/badge/FASTAPI-00695C?style=flat-square&logoColor=white)]()
-[![FLASK](https://img.shields.io/badge/FLASK-111111?style=flat-square&logoColor=white)]()
-[![NODE.JS](https://img.shields.io/badge/NODE.JS-2E7D32?style=flat-square&logoColor=white)]()
-[![EXPRESS](https://img.shields.io/badge/EXPRESS-111111?style=flat-square&logoColor=white)]()
-[![SPRING_BOOT](https://img.shields.io/badge/SPRING_BOOT-2E7D32?style=flat-square&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-1F4F82?style=flat-square&logoColor=white)]()
-[![MYSQL](https://img.shields.io/badge/MYSQL-2C5F8A?style=flat-square&logoColor=white)]()
-[![MONGODB](https://img.shields.io/badge/MONGODB-2E7D32?style=flat-square&logoColor=white)]()
-[![REDIS](https://img.shields.io/badge/REDIS-A32020?style=flat-square&logoColor=white)]()
-[![NUMPY](https://img.shields.io/badge/NUMPY-0A2E36?style=flat-square&logoColor=white)]()
-[![PANDAS](https://img.shields.io/badge/PANDAS-0F0A2E?style=flat-square&logoColor=white)]()
-[![SCIKIT_LEARN](https://img.shields.io/badge/SCIKIT_LEARN-C76A00?style=flat-square&logoColor=white)]()
-[![PYTORCH](https://img.shields.io/badge/PYTORCH-B33A1E?style=flat-square&logoColor=white)]()
-[![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-C65300?style=flat-square&logoColor=white)]()
-[![JUPYTER_NOTEBOOK](https://img.shields.io/badge/JUPYTER_NOTEBOOK-C75A1B?style=flat-square&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/GIT-B3361D?style=flat-square&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/DOCKER-1565C0?style=flat-square&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logoColor=white)]()
-[![WINDOWS](https://img.shields.io/badge/WINDOWS-005A9E?style=flat-square&logoColor=white)]()
-[![LINUX](https://img.shields.io/badge/LINUX-A68C00?style=flat-square&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-2D8FA3?style=flat-square&logoColor=white)]()
+[![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logoColor=white)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0284C7?style=flat-square&logoColor=white)]()
 
+<!-- ===================== CROSS PLATFORM ===================== -->
+[![CROSS PLATFORM](https://img.shields.io/badge/CROSS_PLATFORM-FFFFFF?style=flat-square&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-013A63?style=flat-square&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React_Native-2D8FA3?style=flat-square&logoColor=white)]()
+[![Expo](https://img.shields.io/badge/Expo-111133?style=flat-square&logoColor=white)]()
+[![Electron](https://img.shields.io/badge/Electron-2C5C63?style=flat-square&logoColor=white)]()
+
+<!-- ===================== BACKEND ===================== -->
+[![BACKEND](https://img.shields.io/badge/BACKEND-FFFFFF?style=flat-square&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-00695C?style=flat-square&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-2E7D32?style=flat-square&logoColor=white)]()
+[![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2E7D32?style=flat-square&logoColor=white)]()
+
+<!-- ===================== DATABASES ===================== -->
+[![DATABASES](https://img.shields.io/badge/DATABASES-FFFFFF?style=flat-square&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F4F82?style=flat-square&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-2C5F8A?style=flat-square&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-2E7D32?style=flat-square&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-A32020?style=flat-square&logoColor=white)]()
+
+<!-- ===================== AI / ML ===================== -->
+[![AI / ML](https://img.shields.io/badge/AI_ML-FFFFFF?style=flat-square&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-0A2E36?style=flat-square&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-0F0A2E?style=flat-square&logoColor=white)]()
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-C76A00?style=flat-square&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-B33A1E?style=flat-square&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-C65300?style=flat-square&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-C75A1B?style=flat-square&logoColor=white)]()
+
+<!-- ===================== DEVOPS & CLOUD ===================== -->
+[![DEVOPS & CLOUD](https://img.shields.io/badge/DEVOPS_CLOUD-FFFFFF?style=flat-square&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-B3361D?style=flat-square&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-1565C0?style=flat-square&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logoColor=white)]()
+
+<!-- ===================== OS ===================== -->
+[![OS](https://img.shields.io/badge/OS-FFFFFF?style=flat-square&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-005A9E?style=flat-square&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-A68C00?style=flat-square&logoColor=white)]()
+
+## Featured Projects
+
+[![issac](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=issac&theme=github_dark&hide_border=true)](https://github.com/itsalwk/issac)
+[![buble](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=buble&theme=github_dark&hide_border=true)](https://github.com/itsalwk/buble)
+[![trailwise](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=trailwise&theme=github_dark&hide_border=true)](https://github.com/itsalwk/trailwise)
+
+
+## GitHub Stats
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalwk&theme=github_dark" width="100%" />
 </div>
