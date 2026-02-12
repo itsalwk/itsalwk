@@ -5,9 +5,9 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 <div align="center">
 
-[![Entry-Level AI Engineer](https://img.shields.io/badge/Entry--Level_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
+[![Junior AI Engineer](https://img.shields.io/badge/Junior_AI_Engineer-111111?style=for-the-badge&labelColor=000000&color=111111)]()
 [![ML Systems](https://img.shields.io/badge/ML_Systems-222222?style=for-the-badge&labelColor=000000&color=111111)]()
-[![Applied AI](https://img.shields.io/badge/Applied_AI-333333?style=for-the-badge&labelColor=000000&color=111111)]()
+[![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-333333?style=for-the-badge&labelColor=000000&color=111111)]()
 
 </div>
 
@@ -20,7 +20,7 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 </div>
 
-OPEN TO WORKING WITH FOUNDERS, DEVELOPERS, AND STARTUPS ON HIGH-IMPACT AI AND FULL STACK PROJECTS.  
+OPEN TO WORKING WITH FOUNDERS, DEVELOPERS, AND STARTUPS ON HIGH-IMPACT AI AND FULL-STACK PROJECTS.  
 DRIVEN BY EXECUTION, PERFORMANCE, AND SYSTEM-LEVEL THINKING.
 
 
