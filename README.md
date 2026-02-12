@@ -88,7 +88,7 @@ Currently building full-stack applications and ML-integrated systems using moder
 
 ## Featured Projects
 
-[![issac](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=issac&theme=github_dark&hide_border=true)](https://github.com/itsalwk/issac)
+[![issac](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=isaac&theme=github_dark&hide_border=true)](https://github.com/itsalwk/isaac)
 [![buble](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=buble&theme=github_dark&hide_border=true)](https://github.com/itsalwk/buble)
 [![trailwise](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=trailwise&theme=github_dark&hide_border=true)](https://github.com/itsalwk/trailwise)
 
