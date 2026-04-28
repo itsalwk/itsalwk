@@ -88,10 +88,8 @@ Building full-stack and AI-integrated applications while applying security best 
 
 ## Featured Projects
 
-[![stegdetect](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=stegdetect&theme=github_dark&hide_border=true)](https://github.com/itsalwk/stegdetect)
-[![buble](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=buble&theme=github_dark&hide_border=true)](https://github.com/itsalwk/buble)
 [![trailwise](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=trailwise&theme=github_dark&hide_border=true)](https://github.com/itsalwk/trailwise)
-
+[![stegdetect](https://gh-readme-stats.vercel.app/api/pin/?username=itsalwk&repo=stegdetect&theme=github_dark&hide_border=true)](https://github.com/itsalwk/stegdetect)
 
 ## GitHub Stats
 <div align="center">
