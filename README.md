@@ -21,9 +21,9 @@ Hey, I’m <a href="https://github.com/itsalwk">Alwin</a> <img width="28" src="h
 
 ## About Me
 
-Computer Science undergraduate focused on building scalable backend systems and production-ready AI integrations. Strong foundation in Data Structures, Algorithms, system design fundamentals, and performance-oriented programming (C/C++).
+Computer Science undergraduate focused on cybersecurity and secure backend engineering. Strong in Data Structures, Algorithms, and C/C++, with an emphasis on performance and system security.
 
-Currently building full-stack applications and ML-integrated systems using modern web and backend architectures.
+Building full-stack and AI-integrated applications while applying security best practices and exploring vulnerability analysis and system hardening.
 
 ## Tech Stack
 
