@@ -1,7 +1,7 @@
 # <p align="center">Cybersecurity Specialist</p>
 
 <p align="center">
-  <b>Web Penetration Tester</b>
+  <b>Alwin Kunjumon</b>
 </p>
 
 <p align="center">
