@@ -1,26 +1,21 @@
-# <h1><p align="center">Alwin Kunjumon</p></h1>
+# <p align="center">Cybersecurity Specialist</p>
 
 <p align="center">
-  <b>Web Penetration Tester</b><br>
-  <i>Secure Backend Architecture • Vulnerability Research • System Hardening</i>
+  <b>Web Penetration Tester</b>
 </p>
 
 <p align="center">
-  <a href="https://rxresu.me/itsalwk/curriculum-vitae">CV</a> • 
-  <a href="https://www.linkedin.com/in/alwinkunjumon/">LinkedIn</a> • 
+  <a href="https://rxresu.me/itsalwk/curriculum-vitae">CV</a> / 
+  <a href="https://www.linkedin.com/in/alwinkunjumon/">LinkedIn</a> / 
   <a href="https://github.com/itsalwk">GitHub</a>
 </p>
 
 ---
 
-### 🛡️ Focus
-* **Application Security:** OWASP Top 10, API Security, and Auth Bypass.
-* **Security Tooling:** Developing custom scanners and forensic scripts.
-* **Hardening:** Implementing zero-trust principles in backend environments.
-
-### 🛠️ Stack
-* **Tools:** Burp Suite, Nmap, Metasploit, Docker, Linux.
-* **Code:** Python, C++, TypeScript, Go.
+### Focus
+* Vulnerability Research: Identifying and mitigating OWASP Top 10 risks.
+* Secure Backend: Auditing API logic and hardening system architecture.
+* Tooling: Building custom security automation in Python and C++.
 
 ---
 
@@ -29,9 +24,5 @@
 </p>
 
 <p align="center">
-  <sub><i>"Security through minimalist architecture."</i></sub>
+  <sub><i>"Less, but better. Secure by design."</i></sub>
 </p>
-
-
-
-
