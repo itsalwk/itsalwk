@@ -1,4 +1,4 @@
-# <p align="center">Cybersecurity Specialist</p>
+# <p align="center">Digital Forensics Specialist</p>
 
 <p align="center">
   <b>Alwin Kunjumon</b>
