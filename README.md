@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC8OM_CF6152OqCz0lbEa7Lg">Youtube</a> / 
   <a href="https://www.instagram.com/itsalwk">Instagram</a> / 
   <a href="https://x.com/itsalwk">X</a> /
+  <a href="https://www.youtube.com/channel/UC8OM_CF6152OqCz0lbEa7Lg">Youtube</a> / 
   <a href="www.linkedin.com/in/itsalwk">LinkedIn</a>
 </p>
 
