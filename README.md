@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://rxresu.me/itsalwk/curriculum-vitae">CV</a> / 
-  <a href="https://www.linkedin.com/in/alwinkunjumon/">LinkedIn</a> / 
-  <a href="https://github.com/itsalwk">GitHub</a>
+  <a href="https://www.youtube.com/channel/UC8OM_CF6152OqCz0lbEa7Lg">Youtube</a> / 
+  <a href="https://www.instagram.com/itsalwk">Instagram</a> / 
+  <a href="https://x.com/itsalwk">X</a> /
+  <a href="https://www.linkedin.com/in/alwinkunjumon/">LinkedIn</a>
 </p>
 
 ---
