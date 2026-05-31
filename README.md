@@ -1,4 +1,4 @@
-# <p align="center">Digital Forensics Specialist</p>
+# <p align="center">Software Developer & Systems Engineer</p>
 
 <p align="center">
   <b>Alwin Kunjumon</b>
@@ -14,9 +14,9 @@
 ---
 
 ### Focus
-* Vulnerability Research: Identifying and mitigating OWASP Top 10 risks.
-* Secure Backend: Auditing API logic and hardening system architecture.
-* Tooling: Building custom security automation in Python and C++.
+*Systems & Backends: Architecting predictable, high-performance API logic and custom tooling.
+*Automation & Scripting: Building lightweight CLI utilities, automated workflows, and developer tooling.
+*Low-Level & Hardware Interaction: Exploring low-level software design, hardware interfacing, and performance optimization.
 
 ---
 
@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <sub><i>"Less, but better. Secure by design."</i></sub>
+  <sub><i>"Documenting the process of stripping away the noise"</i></sub>
 </p>
