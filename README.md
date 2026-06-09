@@ -1,7 +1,7 @@
-# <p align="center">Software Developer & Systems Engineer</p>
+# <p align="center">Alwin Kunjumon</p>
 
 <p align="center">
-  <b>Alwin Kunjumon</b>
+  <b>Computer Science & Engineering Grad</b>
 </p>
 
 <p align="center">
@@ -13,17 +13,11 @@
 
 ---
 
-### Focus
-*Systems & Backends: Architecting predictable, high-performance API logic and custom tooling.
-*Automation & Scripting: Building lightweight CLI utilities, automated workflows, and developer tooling.
-*Low-Level & Hardware Interaction: Exploring low-level software design, hardware interfacing, and performance optimization.
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalwk&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <sub><i>"Documenting the process of stripping away the noise"</i></sub>
+  <sub><i>“Both the man of science and the man of action live always at the edge of mystery.” — J. Robert Oppenheimer</i></sub>
 </p>
