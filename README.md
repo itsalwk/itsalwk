@@ -1,7 +1,7 @@
 # <p align="center">Alwin Kunjumon</p>
 
 <p align="center">
-  <b>Computer Science & Engineering Grad</b>
+  <b>ML Engineer • Builder</b>
 </p>
 
 <p align="center">
